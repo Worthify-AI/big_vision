@@ -1,3 +1,9 @@
+# Install
+
+```sh
+pip install git+ssh://git@github.com/Worthify-AI/big_vision.git
+```
+
 # Big Vision
 
 This codebase is designed for training large-scale vision models using
